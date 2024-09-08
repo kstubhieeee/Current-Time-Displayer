@@ -1,2 +1,2 @@
 # Current-Time-Displayer
-Created with CodeSandbox
+Displays current time
